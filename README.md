@@ -34,3 +34,17 @@ employees are elgibile to participate in a mentorship program.
     
     [retiring_titles.csv](https://github.com/rgilgeous19/Pewlett-Hackard-Analysis/files/8794782/retiring_titles.csv)
 
+
+  - Lastly, I was able to create a table that shows which employees, based on their birthday, hire date, ending date, and title, 
+    are eligible to participate in the mentorship program. 
+    
+    ![mentorship eligibility](https://user-images.githubusercontent.com/103302566/170902995-02bdbbc1-c979-42dc-ae84-07bb25697262.png)
+
+     [mentorship_eligibility.csv](https://github.com/rgilgeous19/Pewlett-Hackard-Analysis/files/8794818/mentorship_eligibility.csv)
+
+
+
+  ## SUMMARY
+  
+  
+  
