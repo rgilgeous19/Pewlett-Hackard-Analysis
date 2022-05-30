@@ -18,7 +18,8 @@ employees are elgibile to participate in a mentorship program.
 
 
 
-  - Secondly, I was able to further sort the previous list to exclude eligible employees who had already left the company.
+  - Secondly, I was able to further sort the previous list to remove any duplicate entries for employees who have
+    switched roles over the years and to exclude eligible employees who had already left the company.
     
     ![unique titles](https://user-images.githubusercontent.com/103302566/170901528-baac7637-5162-4dda-9f73-3131eecbf17d.png)
     
@@ -44,7 +45,13 @@ employees are elgibile to participate in a mentorship program.
 
 
 
-  ## SUMMARY
+ ## SUMMARY
   
+  - In total, 90,398 roles will need to be filled in order to recover from the "Silver Tsunami".
+      
+   ![retiring titles #2](https://user-images.githubusercontent.com/103302566/170903651-3ad839d8-62bd-4647-b21e-5e58341c13f1.png)
+      
+      
+  - 
   
   
