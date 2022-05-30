@@ -52,6 +52,14 @@ employees are elgibile to participate in a mentorship program.
    ![retiring titles #2](https://user-images.githubusercontent.com/103302566/170903651-3ad839d8-62bd-4647-b21e-5e58341c13f1.png)
       
       
-  - 
+  - I did an employee count by title on the mentorship eligibility file, and I determined that there are only enough
+    employees in the Manager and Assistant Engineer positions that are qualified and retirement ready to mentor the next generation of 
+    Pewlett Hackard employees. Because there are not enough qualified employees to cover each departments, I would suggest that 
+    the retiring generation leave 'How to Guides' for the new employees to follow; so that way, they can have the opportunity to learn
+    on their own and will have access to a mentor if only necessary. The mentors will then be able to stretch their time and resources 
+    amongst many more new employees. 
+    
+  ![qualified mentorship ready by title](https://user-images.githubusercontent.com/103302566/170906217-a7b4e60f-39e6-43d5-87d9-72bfc269286a.png)
+
   
   
